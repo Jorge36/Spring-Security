@@ -16,17 +16,17 @@ There is a video in folder ./testing/. Also I add some screenshots of the web ap
 
 ![alt_text](https://github.com/Jorge36/Spring-Security/blob/926179df88da03aa3829a3645031322b3ee5007e/Testing/login.png)
 
-**John Employee**
+**John - Employee**
 
 ![alt_text](https://github.com/Jorge36/Spring-Security/blob/926179df88da03aa3829a3645031322b3ee5007e/Testing/john_role_employee.png)
 
-**Mary**
+**Mary - Employee and Leader**
 
 ![alt_text](https://github.com/Jorge36/Spring-Security/blob/926179df88da03aa3829a3645031322b3ee5007e/Testing/mary_role_employee_manager.png)
 
 ![alt_text](https://github.com/Jorge36/Spring-Security/blob/926179df88da03aa3829a3645031322b3ee5007e/Testing/mary_leader.png)
 
-**Susan**
+**Susan - Employee, Leader and Manager**
 
 ![alt_text](https://github.com/Jorge36/Spring-Security/blob/926179df88da03aa3829a3645031322b3ee5007e/Testing/susan_role_employee_manager_admin.png)
 
