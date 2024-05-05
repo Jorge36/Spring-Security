@@ -5,7 +5,7 @@ Spring Security - Custom User Registration with Spring Boot, Thymeleaf, JPA/Hibe
 
 **Testing**
 
-There is a video in folder ./testing/. Also I add some screenshots of the web applicatacion below.
+There is a video in folder ./testing/. Also I add some screenshots of the web applicatacion below. Password for the users to log into the application is fun123.
 
 
 **Spring boot running**
